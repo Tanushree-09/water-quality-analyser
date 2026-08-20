@@ -9,6 +9,7 @@ A full-stack IoT and machine learning application designed to monitor, assess, a
 * **Predictive Analysis:** Implements an ensemble voting classifier (`water_potability_voting_model.joblib`) to predict overall water safety based on sensor inputs.
 * **History Smoothing:** Uses data queues (`deque`) to track moving histories and eliminate flickering predictions caused by temporary sensor fluctuations.
 * **Interactive UI:** A modern dashboard UI built with React to view live metrics, graphical data tracking, and detailed analytical forms.
+* **Potability Results:** Shows in the potability (water usability) in percentage and provides recommendations of steps to be taken
 
 ---
 
